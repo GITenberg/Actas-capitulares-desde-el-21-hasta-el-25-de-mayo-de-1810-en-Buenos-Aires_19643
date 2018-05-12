@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19643#Actas-capitulares-desde-el-21-hasta-el-25-de-mayo-de-1810-en-Buenos-Aires
 gutenberg_bookshelf: Argentina
 gutenberg_issued: '2006-10-27'
 gutenberg_type: Text
